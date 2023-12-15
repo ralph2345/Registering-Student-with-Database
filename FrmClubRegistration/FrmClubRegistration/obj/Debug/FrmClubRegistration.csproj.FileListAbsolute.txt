@@ -1,0 +1,14 @@
+C:\Users\Suarez.253740\source\repos\FrmClubRegistration\FrmClubRegistration\bin\Debug\ClubDB.mdf
+C:\Users\Suarez.253740\source\repos\FrmClubRegistration\FrmClubRegistration\bin\Debug\ClubDB_log.ldf
+C:\Users\Suarez.253740\source\repos\FrmClubRegistration\FrmClubRegistration\bin\Debug\FrmClubRegistration.exe.config
+C:\Users\Suarez.253740\source\repos\FrmClubRegistration\FrmClubRegistration\bin\Debug\FrmClubRegistration.exe
+C:\Users\Suarez.253740\source\repos\FrmClubRegistration\FrmClubRegistration\bin\Debug\FrmClubRegistration.pdb
+C:\Users\Suarez.253740\source\repos\FrmClubRegistration\FrmClubRegistration\obj\Debug\FrmClubRegistration.csproj.AssemblyReference.cache
+C:\Users\Suarez.253740\source\repos\FrmClubRegistration\FrmClubRegistration\obj\Debug\FrmClubRegistration.csproj.SuggestedBindingRedirects.cache
+C:\Users\Suarez.253740\source\repos\FrmClubRegistration\FrmClubRegistration\obj\Debug\FrmClubRegistration.Form1.resources
+C:\Users\Suarez.253740\source\repos\FrmClubRegistration\FrmClubRegistration\obj\Debug\FrmClubRegistration.FrmUpdateMember.resources
+C:\Users\Suarez.253740\source\repos\FrmClubRegistration\FrmClubRegistration\obj\Debug\FrmClubRegistration.Properties.Resources.resources
+C:\Users\Suarez.253740\source\repos\FrmClubRegistration\FrmClubRegistration\obj\Debug\FrmClubRegistration.csproj.GenerateResource.cache
+C:\Users\Suarez.253740\source\repos\FrmClubRegistration\FrmClubRegistration\obj\Debug\FrmClubRegistration.csproj.CoreCompileInputs.cache
+C:\Users\Suarez.253740\source\repos\FrmClubRegistration\FrmClubRegistration\obj\Debug\FrmClubRegistration.exe
+C:\Users\Suarez.253740\source\repos\FrmClubRegistration\FrmClubRegistration\obj\Debug\FrmClubRegistration.pdb
